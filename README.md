@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jess!
 - 🌱 I’m currently learning TDD remotely with Makers Academy, so far I've been focusing on Ruby, RSpec, Javascript and Jasmine!
-- 📫 You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3] or drop me a line at [jessicabulman97@gmail.com].
+- 📫 You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3] or drop me a line at [jessicabulman97@gmail.com] .
 
 ## &#x1f4c8; GitHub Stats
 
@@ -14,7 +14,7 @@
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://github.com/MartinHeinz/MartinHeinz/blob/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://github.com/Jessocxz98/Jessocxz98/blob/main/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
