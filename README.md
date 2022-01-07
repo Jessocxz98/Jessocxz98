@@ -14,7 +14,7 @@
 <h1 align="center">Hi there, I'm Jess 👋 Welcome to my GitHub!</h1>
 
 <h3 align="center">Risk and Hazard Management Consultant turned Software Developer</h3>
-<h4 align="center">Keen interest in DevOps, Project Management and Cyber Security.</h4>
+<h4 align="center">DevOps Engineer Apprentice.</h4>
 
 
 <h3 align="center">Languages and Tools</h3>
@@ -61,7 +61,7 @@ Here's a selection of my projects that demonstrate my technology and language sk
 * Learning about stars
 * Travelling
 
-### 🚲 &nbsp; My Skills
+<!-- ### 🚲 &nbsp; My Skills
 
 #### Self Led Learner with a Growth Mindset
 * After studying Biochemistry I stumbled upon my role as a Risk and Hazard Management Consultant for the process engineering and energy sectors. I had no prior knowledge of these industries, or the work/technologies involved. I was absolutely thrown in the deep end, working on both client and internal projects from day 1 (I thrive under pressure so this was a win). I had a lot to learn from industry lingo, standards and governing bodies to essential packages such as mapping tools, risk quantification software, data processing and excel. Working for a very small, extremely busy company (less than 20 people!) I was often just given some context to start me off then left to my own devices until I had finished the project, this allowed me to really develop a process for learning what was needed by myself, and applying it to my work in a timely and productive manner. Due to the nature of the industry and the consultancy I worked for, every project was extremely varied and gave me fresh opportunities to learn and grow. After just 6 months in my role I began working remotely due to the pandemic and could adapt my processes to suit the circumstances with ease.
@@ -82,7 +82,7 @@ Here's a selection of my projects that demonstrate my technology and language sk
 
 #### Logical Thinker and Creative Problem Solver with a Keen Attention to Detail
 * I've always been a logical thinker and my last role gave me a lot of opportunities to utilise this, with most projects requiring a high level of problem solving. I worked with clients in order to brainstorm ways in which to alter their processes to decrease risk in a way that worked for them financially and behaviourally. One example would be working with a chemicals manufacturer to put in place a new work shift pattern which would decrease fatigue (and therefore reduce safety risk) whilst catering to the number of employees and the preferences, responsibilities and specific skills of those employees. One example of an extremely high pressured and sensitive deadline was during the pandemic where we were handling all the risk assessments, compliance and advising on the process for the manufacture of a lipid created for the Pfizer/Biontech vaccine. I always exercise attention to detail and have experience doing so when planning and writing original material for clients, the data and information that I would document would usually be supplied to the HSE or EA in order to demonstrate compliance, meaning that a high level of attention to detail was absolutely essential in order to avoid damaged reputations or economic loss. 
-* The enjoyment and satisfaction from solving problems was one of my main drivers for getting into tech. Throughout Makers I have been able to improve and apply these skills through test driven development and subsequent debugging. Paying attention to code details with these methods has been essential to acknowledging and explaining each piece of code, and thus being able to identify and fix errors. As a largely self-led course, Makers allowed me to practice an effective problem-solving cycle. Importantly one the thing I learned is how to communicate blockers when seeking assistance, including making an effort to find existing answers, talking through the relevant section of code, trying to decipher error messages and revising the questions based on feedback. Taking on new languages in a short space of time sharpened my problem solving and debugging skills.
+* The enjoyment and satisfaction from solving problems was one of my main drivers for getting into tech. Throughout Makers I have been able to improve and apply these skills through test driven development and subsequent debugging. Paying attention to code details with these methods has been essential to acknowledging and explaining each piece of code, and thus being able to identify and fix errors. As a largely self-led course, Makers allowed me to practice an effective problem-solving cycle. Importantly one the thing I learned is how to communicate blockers when seeking assistance, including making an effort to find existing answers, talking through the relevant section of code, trying to decipher error messages and revising the questions based on feedback. Taking on new languages in a short space of time sharpened my problem solving and debugging skills. -->
 
 <!-- <h3 align="center"> Open to new opportunities.<br><br>
 You can reach me at <a href="mailto:jessicabulman97@gmail.com">jessicabulman97@gmail.com</a></h3>
